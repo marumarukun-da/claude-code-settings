@@ -4,10 +4,7 @@
       "Bash(rm -rf /)",
       "Bash(rm -rf ~)",
       "Bash(rm -rf ~/*)",
-      "Bash(rm -rf /*)",
-      "Bash(mkdir:*)",
-      "Bash(cp:*)",
-      "Bash(true)"
+      "Bash(rm -rf /*)"
     ]
   },
   "hooks": {
